@@ -1,0 +1,1 @@
+- [ ] D7 Proposale (Sep 30)
