@@ -1,0 +1,9 @@
+- [x] Week 1 Syllabus
+- [x] Week 2 No Class
+- [x] Week 3 Technical Writing
+- [ ] Week 4
+- [ ] Week 5
+- [ ] Week 6
+- [ ] Week 7
+- [ ] Week 8 
+- [ ] Week 9
