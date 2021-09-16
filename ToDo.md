@@ -1,1 +1,2 @@
-- [ ] D7 Proposale (Sep 30)
+- [ ] D7 Proposal Draft
+- [ ] Proposal Submission
