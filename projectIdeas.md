@@ -1,2 +1,2 @@
-Machine Learning with Facial Recognition
-Work on D7
+Machine Learning with Facial Recognition;
+Work on D7;
